@@ -5,6 +5,7 @@
 </p>
 
 An attempt to adapt the Blades in the Dark system created by megastruktur to Scum and Villainy
+An attempt to adapt into my own system the Scum and Villany system developed by drewg13 based upon the work on the Blades in the Dark system created by megastruktur
 
 ## IMPORTANT NOTES
 
